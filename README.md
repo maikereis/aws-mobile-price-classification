@@ -8,7 +8,7 @@ Predicting mobile phone price ranges using machine learning and cloud-based infr
 
 This project presents a comprehensive machine learning pipeline designed to classify mobile phones into distinct price ranges based on their specifications. Utilizing the power of Amazon SageMaker and the versatility of scikit-learn, the workflow encompasses data preprocessing, model training, deployment, and inference, all orchestrated within a scalable and efficient environment.
 
-<img src="assets/final.png" alt="Alt Text" width="600" height="600">
+<img src="assets/final.png" alt="Alt Text" width="400" height="400">
 
 
 ---
